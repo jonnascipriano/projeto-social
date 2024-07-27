@@ -24,4 +24,4 @@
 </p>
 
 
-<h1>:link: Link para acesso do Projeto: <a href="https://jonnascipriano.github.io/projeto-social/" target="_blank">https://jonnascipriano.github.io/projeto-social/</h1>
+<h3>:link:<a href="https://jonnascipriano.github.io/projeto-social/" target="_blank">Clique aqui para acessar o projeto! :smile:</h3>
